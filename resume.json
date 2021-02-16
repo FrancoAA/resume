@@ -1,9 +1,9 @@
 {
-	"background": "wavy",
+	"background": "zigzag",
 	"primaryColor": "#000000",
 	"secondaryColor": "#000000",
 	"font": "'Roboto', sans-serif",
-	"profilePicture": "https://via.placeholder.com/200",
+	"profilePicture": "https://cdn.jsdelivr.net/gh/FrancoAA/resume@bc9e1b1b7bf488daf6ab1dfd2faeb12d02969ec4/images/profile.png",
 	"contactInfo": {
 		"info": [
 			{
