@@ -1,0 +1,48 @@
+{
+	"background": "wavy",
+	"primaryColor": "#000000",
+	"secondaryColor": "#000000",
+	"font": "'Roboto', sans-serif",
+	"profilePicture": "https://via.placeholder.com/200",
+	"contactInfo": {
+		"info": [
+			{
+				"name": "Email",
+				"value": "john.doe@gmail.com"
+			}
+		]
+	},
+	"about": {
+		"title": "About Me",
+		"description": "Short paragraph describing you"
+	},
+	"experience": {
+		"title": "Experience",
+		"workExperience": [
+			{
+				"companyName": "ACME Corp",
+				"duration": "(2013-2016)",
+				"role": "Software Engineer",
+				"description": "\n                Description of the position and the responsabilites you had in\n                this company\n              "
+			}
+		]
+	},
+	"education": {
+		"title": "Education",
+		"achievements": [
+			{
+				"carrer": "Software Engineering",
+				"duration": "(2013-2016)",
+				"institution": "MIT",
+				"description": "Description of the achievement"
+			}
+		]
+	},
+	"section": [
+		{
+			"item": [
+				{}
+			]
+		}
+	]
+}
